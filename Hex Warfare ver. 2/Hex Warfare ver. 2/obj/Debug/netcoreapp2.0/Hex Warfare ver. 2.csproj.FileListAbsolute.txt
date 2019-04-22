@@ -1,0 +1,24 @@
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\csfml-audio-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\csfml-graphics-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\csfml-system-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\csfml-window-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\libsndfile-1.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\openal32.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\OpenTK.Compatibility.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\OpenTK.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\Hex Warfare ver. 2.deps.json
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\Hex Warfare ver. 2.runtimeconfig.json
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\Hex Warfare ver. 2.runtimeconfig.dev.json
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\Hex Warfare ver. 2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\Hex Warfare ver. 2.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\sfmlnet-audio-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\sfmlnet-graphics-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\sfmlnet-system-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\bin\Debug\netcoreapp2.0\sfmlnet-window-2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.AssemblyInfo.cs
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.csproj.CopyComplete
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.dll
+C:\Users\Łukasz\Documents\Visual Studio 2017\Projects\Hex Warfare ver. 2\Hex Warfare ver. 2\obj\Debug\netcoreapp2.0\Hex Warfare ver. 2.pdb
